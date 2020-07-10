@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="chkSprinkle" type="id">chkSprinkle</item>
+    <item name="chocolate_syrup" type="id">chocolate_syrup</item>
+    <item name="Sprinkles" type="id">sprinkles</item>
+    <item name="crushed_nuts" type="id">crushed_nuts</item>
+    <item name="cherries" type="id">cherries</item>
+    <item name="orio_cookie_crumbles" type="id">orio_cookie_crumbles</item>
+    <item name="show_toast" type="id">show_toast</item>
+</resources>
